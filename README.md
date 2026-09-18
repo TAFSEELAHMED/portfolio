@@ -1,4 +1,4 @@
-# Tafseel Ur Rehman — AI Developer & Researcher Portfolio
+# Tafsil — AI Developer & Researcher Portfolio
 
 A cinematic, dark-mode portfolio for **Tafseel Ur Rehman**, showcasing AI engineering, research, computer vision, LLM systems, and full-stack projects. The interface pairs a restrained luxury aesthetic with a real-time Three.js spatial environment.
 
