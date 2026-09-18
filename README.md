@@ -119,4 +119,4 @@ For visual changes, start with `src/index.css` for global colors, textures, scro
 
 ## License
 
-This portfolio is personal work by Tafseel Ur Rehman. Add an explicit license before redistributing or reusing the source.
+This portfolio is personal work by Tafsil. Add an explicit license before redistributing or reusing the source.
